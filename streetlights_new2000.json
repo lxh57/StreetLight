@@ -1,0 +1,2573 @@
+{
+    "pagination": {
+        "limit": 2650,
+        "offset": 0,
+        "total_images_in_db": 22,
+        "has_more": false
+    },
+    "fetched_sequences": 4,
+    "fetched_images": 22,
+    "fetched_lights": 108,
+    "sequences": [
+        {
+            "sequence_id": "A9B0484C-A05B-5F1C-ADD9-79EE93D49024",
+            "image_count": 4,
+            "light_count": 18,
+            "images": [
+                {
+                    "image_id": "FFB3D299-AE53-5DAF-981C-042FE64206D9",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/ffb3d299-ae53-5daf-981c-042fe64206d9_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/FFB3D299-AE53-5DAF-981C-042FE64206D9/thumbnail",
+                    "camera_lat": 16.0769137,
+                    "camera_lon": 108.2076579,
+                    "heading_angle": 215.779,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:24:48.614611",
+                    "street_lights": [
+                        {
+                            "light_id": "E12BA64E-7E43-528D-8242-AA47C223E68A",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.540385,
+                                "y": 0.15918,
+                                "w": 0.006334,
+                                "h": 0.00758
+                            },
+                            "confidence_score": 0.9924191236495972,
+                            "detected_at": "2026-05-30T03:26:50.507467",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.540385,
+                                    "y": 0.15918,
+                                    "w": 0.006334,
+                                    "h": 0.00758
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "1F5EC4C3-99BB-55AA-B242-3E44EE5FE376",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.016026,
+                                "y": 0.199219,
+                                "w": 0.005372,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.9866887927055359,
+                            "detected_at": "2026-05-30T03:26:50.862534",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.016026,
+                                    "y": 0.199219,
+                                    "w": 0.005372,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "67F395F9-6D71-5581-A69D-5C92B835CC0E",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.509295,
+                                "y": 0.160156,
+                                "w": 0.008257,
+                                "h": 0.011486
+                            },
+                            "confidence_score": 0.9246702194213867,
+                            "detected_at": "2026-05-30T03:26:51.011209",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.509295,
+                                    "y": 0.160156,
+                                    "w": 0.008257,
+                                    "h": 0.011486
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "1D5E067D-9265-5C28-8BEB-F08CF0FE671F",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.579487,
+                                "y": 0.320312,
+                                "w": 0.002488,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.8045777678489685,
+                            "detected_at": "2026-05-30T03:26:51.155494",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.579487,
+                                    "y": 0.320312,
+                                    "w": 0.002488,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "3E5C975F-2BED-588E-89BE-EB76DB3F3ABD",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.56859,
+                                "y": 0.321289,
+                                "w": 0.002808,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.6314017176628113,
+                            "detected_at": "2026-05-30T03:26:51.302980",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.56859,
+                                    "y": 0.321289,
+                                    "w": 0.002808,
+                                    "h": 0.002697
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "68911982-096D-5356-80E1-9FEB7851112B",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/68911982-096d-5356-80e1-9feb7851112b_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/68911982-096D-5356-80E1-9FEB7851112B/thumbnail",
+                    "camera_lat": 16.0768921,
+                    "camera_lon": 108.2076408,
+                    "heading_angle": 220.853,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:24:48.614611",
+                    "street_lights": [
+                        {
+                            "light_id": "929CBDB6-3509-56A0-B4FB-B762CB546F46",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.5,
+                                "y": 0.139648,
+                                "w": 0.007295,
+                                "h": 0.00758
+                            },
+                            "confidence_score": 0.9935154914855957,
+                            "detected_at": "2026-05-30T03:26:51.451139",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.5,
+                                    "y": 0.139648,
+                                    "w": 0.007295,
+                                    "h": 0.00758
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "CCAAFE99-FE18-5934-BF37-612E93C0AB5D",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.465385,
+                                "y": 0.140625,
+                                "w": 0.006334,
+                                "h": 0.008557
+                            },
+                            "confidence_score": 0.9642252326011658,
+                            "detected_at": "2026-05-30T03:26:51.599734",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.465385,
+                                    "y": 0.140625,
+                                    "w": 0.006334,
+                                    "h": 0.008557
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "9A0AF25F-04ED-544F-9752-F21C3A032985",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.543269,
+                                "y": 0.332031,
+                                "w": 0.003129,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.7261557579040527,
+                            "detected_at": "2026-05-30T03:26:51.742641",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.543269,
+                                    "y": 0.332031,
+                                    "w": 0.003129,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "83E348B6-8499-53BA-B21C-8F0F2860C51A",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.532372,
+                                "y": 0.332031,
+                                "w": 0.002488,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.7053881883621216,
+                            "detected_at": "2026-05-30T03:26:51.886689",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.532372,
+                                    "y": 0.332031,
+                                    "w": 0.002488,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "5BFD5A54-BC00-5446-BB3C-3E4C1029D65D",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.972436,
+                                "y": 0.554688,
+                                "w": 0.002488,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.5512669086456299,
+                            "detected_at": "2026-05-30T03:26:52.027546",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.972436,
+                                    "y": 0.554688,
+                                    "w": 0.002488,
+                                    "h": 0.00465
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "88A7909B-EB5F-507E-807A-0A765C37232D",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/88a7909b-eb5f-507e-807a-0a765c37232d_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/88A7909B-EB5F-507E-807A-0A765C37232D/thumbnail",
+                    "camera_lat": 16.0768716,
+                    "camera_lon": 108.2076214,
+                    "heading_angle": 223.857,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:24:48.614611",
+                    "street_lights": [
+                        {
+                            "light_id": "E7EF91C6-ED08-500D-806E-75A03FD608BA",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.465064,
+                                "y": 0.103516,
+                                "w": 0.007936,
+                                "h": 0.009533
+                            },
+                            "confidence_score": 0.9960923790931702,
+                            "detected_at": "2026-05-30T03:26:52.170695",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.465064,
+                                    "y": 0.103516,
+                                    "w": 0.007936,
+                                    "h": 0.009533
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D283A883-388F-5E1E-B9C4-DABA5ECEFEFA",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.425,
+                                "y": 0.103516,
+                                "w": 0.007936,
+                                "h": 0.009533
+                            },
+                            "confidence_score": 0.994273841381073,
+                            "detected_at": "2026-05-30T03:26:52.314974",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.425,
+                                    "y": 0.103516,
+                                    "w": 0.007936,
+                                    "h": 0.009533
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "7F5FDB40-20E3-5EA7-A8E1-BBB6E9047672",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.519872,
+                                "y": 0.336914,
+                                "w": 0.002808,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.6135416030883789,
+                            "detected_at": "2026-05-30T03:26:52.459310",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.519872,
+                                    "y": 0.336914,
+                                    "w": 0.002808,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "465021AD-FF56-5823-86B3-89419EFB6916",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.503526,
+                                "y": 0.371094,
+                                "w": 0.001847,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.5921738743782043,
+                            "detected_at": "2026-05-30T03:26:52.602660",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.503526,
+                                    "y": 0.371094,
+                                    "w": 0.001847,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "6E321921-639A-51A9-A34C-35D19F87551C",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/6e321921-639a-51a9-a34c-35d19f87551c_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/6E321921-639A-51A9-A34C-35D19F87551C/thumbnail",
+                    "camera_lat": 16.0768514,
+                    "camera_lon": 108.2076012,
+                    "heading_angle": 223.857,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:24:48.614611",
+                    "street_lights": [
+                        {
+                            "light_id": "E3F14BDE-FF10-58BA-A0C0-A3DD2BBAB920",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.440385,
+                                "y": 0.064453,
+                                "w": 0.008898,
+                                "h": 0.012463
+                            },
+                            "confidence_score": 0.9963951706886292,
+                            "detected_at": "2026-05-30T03:26:52.746542",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.440385,
+                                    "y": 0.064453,
+                                    "w": 0.008898,
+                                    "h": 0.012463
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "12CFF3C0-A336-51D0-964C-783D2E2B928B",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.395513,
+                                "y": 0.067383,
+                                "w": 0.008257,
+                                "h": 0.01051
+                            },
+                            "confidence_score": 0.9958513975143433,
+                            "detected_at": "2026-05-30T03:26:52.890873",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.395513,
+                                    "y": 0.067383,
+                                    "w": 0.008257,
+                                    "h": 0.01051
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "8031E5D3-7966-5444-8E07-5C212BBE61BA",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.509615,
+                                "y": 0.351562,
+                                "w": 0.002808,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8587833642959595,
+                            "detected_at": "2026-05-30T03:26:53.030333",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.509615,
+                                    "y": 0.351562,
+                                    "w": 0.002808,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "6F1792A7-233E-50D3-9C25-F442115F4F7B",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.905449,
+                                "y": 0.40918,
+                                "w": 0.007295,
+                                "h": 0.019299
+                            },
+                            "confidence_score": 0.597901463508606,
+                            "detected_at": "2026-05-30T03:26:53.168590",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.905449,
+                                    "y": 0.40918,
+                                    "w": 0.007295,
+                                    "h": 0.019299
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence_id": "A9DA8BA0-ED0C-5A93-A085-BC8E6B96A747",
+            "image_count": 7,
+            "light_count": 36,
+            "images": [
+                {
+                    "image_id": "21F876F0-F684-56D1-9EDB-7E5C2CCBBA1D",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/21f876f0-f684-56d1-9edb-7e5c2ccbba1d_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/21F876F0-F684-56D1-9EDB-7E5C2CCBBA1D/thumbnail",
+                    "camera_lat": 16.0765723,
+                    "camera_lon": 108.2072761,
+                    "heading_angle": 228.67,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T21:52:54.760633",
+                    "street_lights": [
+                        {
+                            "light_id": "B68CA4D4-4E0E-57F7-B8CC-96DD7CA6E7B6",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.494872,
+                                "y": 0.339844,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.9464302659034729,
+                            "detected_at": "2026-05-29T21:54:15.316312",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.494872,
+                                    "y": 0.339844,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "2FAA1860-217F-5E12-9D53-180FB0F56079",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.480769,
+                                "y": 0.339844,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8400251865386963,
+                            "detected_at": "2026-05-29T21:54:15.448185",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.480769,
+                                    "y": 0.339844,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "23F7BF75-E681-56E2-9DFA-5EB475D899AC",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.916346,
+                                "y": 0.495117,
+                                "w": 0.002167,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8121227025985718,
+                            "detected_at": "2026-05-29T21:54:15.575933",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.916346,
+                                    "y": 0.495117,
+                                    "w": 0.002167,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "5452B286-DBAD-5457-96B1-43BE62510671",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.487179,
+                                "y": 0.333984,
+                                "w": 0.002167,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.7595766186714172,
+                            "detected_at": "2026-05-29T21:54:15.703727",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.487179,
+                                    "y": 0.333984,
+                                    "w": 0.002167,
+                                    "h": 0.00465
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "A27F2F38-F600-551D-AA5B-48B763EC0E29",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/a27f2f38-f600-551d-aa5b-48b763ec0e29_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/A27F2F38-F600-551D-AA5B-48B763EC0E29/thumbnail",
+                    "camera_lat": 16.0765531,
+                    "camera_lon": 108.2072536,
+                    "heading_angle": 227.229,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T21:52:54.760633",
+                    "street_lights": [
+                        {
+                            "light_id": "AAAC1D79-4C82-5829-B3F2-9016F6995816",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.492628,
+                                "y": 0.329102,
+                                "w": 0.00409,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.865268886089325,
+                            "detected_at": "2026-05-29T21:54:15.832044",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.492628,
+                                    "y": 0.329102,
+                                    "w": 0.00409,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "497F1F98-7450-5BA9-A7EA-F4DCE22FFBB4",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.477885,
+                                "y": 0.329102,
+                                "w": 0.003449,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.8064939379692078,
+                            "detected_at": "2026-05-29T21:54:15.966585",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.477885,
+                                    "y": 0.329102,
+                                    "w": 0.003449,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D345ED81-1392-5050-BFFD-32F1DCB9D2E6",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.484615,
+                                "y": 0.323242,
+                                "w": 0.002167,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.7850097417831421,
+                            "detected_at": "2026-05-29T21:54:16.092601",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.484615,
+                                    "y": 0.323242,
+                                    "w": 0.002167,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "4576575C-D92E-5B4E-B44F-802B3F124622",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.075321,
+                                "y": 0.474609,
+                                "w": 0.005372,
+                                "h": 0.013439
+                            },
+                            "confidence_score": 0.6926960349082947,
+                            "detected_at": "2026-05-29T21:54:16.214563",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.075321,
+                                    "y": 0.474609,
+                                    "w": 0.005372,
+                                    "h": 0.013439
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "F6ABBE27-8392-570A-83CF-B3878DBDD984",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.921474,
+                                "y": 0.495117,
+                                "w": 0.002488,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.6771004796028137,
+                            "detected_at": "2026-05-29T21:54:16.414781",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.921474,
+                                    "y": 0.495117,
+                                    "w": 0.002488,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "7B36A803-58A8-585E-9FC7-A4851CA06264",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.991987,
+                                "y": 0.416992,
+                                "w": 0.007616,
+                                "h": 0.044689
+                            },
+                            "confidence_score": 0.512752115726471,
+                            "detected_at": "2026-05-29T21:54:16.537891",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.991987,
+                                    "y": 0.416992,
+                                    "w": 0.007616,
+                                    "h": 0.044689
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "9F70643F-02EA-599C-9302-35BDA72F2947",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/9f70643f-02ea-599c-9302-35bda72f2947_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/9F70643F-02EA-599C-9302-35BDA72F2947/thumbnail",
+                    "camera_lat": 16.0765353,
+                    "camera_lon": 108.207232,
+                    "heading_angle": 230.593,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T21:52:54.760633",
+                    "street_lights": [
+                        {
+                            "light_id": "5D1F9FE5-584B-5A80-AF4F-A590250A262E",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.491346,
+                                "y": 0.319336,
+                                "w": 0.003449,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.8926972150802612,
+                            "detected_at": "2026-05-29T21:54:16.660301",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.491346,
+                                    "y": 0.319336,
+                                    "w": 0.003449,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "5F78193B-E5FD-5704-B337-A46DEC3E0AEB",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.055128,
+                                "y": 0.473633,
+                                "w": 0.005372,
+                                "h": 0.016369
+                            },
+                            "confidence_score": 0.8120214343070984,
+                            "detected_at": "2026-05-29T21:54:16.780745",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.055128,
+                                    "y": 0.473633,
+                                    "w": 0.005372,
+                                    "h": 0.016369
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "64F6C120-D49A-51AA-A8E6-B98B0F3F64B8",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.482051,
+                                "y": 0.3125,
+                                "w": 0.001847,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.7616991996765137,
+                            "detected_at": "2026-05-29T21:54:16.903888",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.482051,
+                                    "y": 0.3125,
+                                    "w": 0.001847,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "C7E28D8B-2AF0-595F-BA0D-BCD80F641705",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.583654,
+                                "y": 0.34082,
+                                "w": 0.005693,
+                                "h": 0.008557
+                            },
+                            "confidence_score": 0.7547844052314758,
+                            "detected_at": "2026-05-29T21:54:17.027748",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.583654,
+                                    "y": 0.34082,
+                                    "w": 0.005693,
+                                    "h": 0.008557
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "612DB525-E942-58FD-A239-98E8361B86BC",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.474679,
+                                "y": 0.319336,
+                                "w": 0.003129,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.5644957423210144,
+                            "detected_at": "2026-05-29T21:54:17.150821",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.474679,
+                                    "y": 0.319336,
+                                    "w": 0.003129,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "C3C6540F-C19B-5940-9B2F-616AFEC6DAF3",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/c3c6540f-c19b-5940-9b2f-616afec6daf3_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/C3C6540F-C19B-5940-9B2F-616AFEC6DAF3/thumbnail",
+                    "camera_lat": 16.0765162,
+                    "camera_lon": 108.207209,
+                    "heading_angle": 227.679,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T21:52:54.760633",
+                    "street_lights": [
+                        {
+                            "light_id": "22ECD462-B4A1-5695-89BA-3285057C2FEC",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.488141,
+                                "y": 0.305664,
+                                "w": 0.00409,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9614190459251404,
+                            "detected_at": "2026-05-29T21:54:17.274143",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.488141,
+                                    "y": 0.305664,
+                                    "w": 0.00409,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "2A85187E-EAD4-5641-831D-21D0235C090F",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.478205,
+                                "y": 0.297852,
+                                "w": 0.002167,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.912636399269104,
+                            "detected_at": "2026-05-29T21:54:17.395891",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.478205,
+                                    "y": 0.297852,
+                                    "w": 0.002167,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "FC482472-BEAC-52BE-B4A5-C9DDEDFEBB22",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.469872,
+                                "y": 0.305664,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.881593644618988,
+                            "detected_at": "2026-05-29T21:54:17.517364",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.469872,
+                                    "y": 0.305664,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "342371BB-9D82-51AB-926A-602EBBA21672",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.745192,
+                                "y": 0.397461,
+                                "w": 0.003129,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.5893957018852234,
+                            "detected_at": "2026-05-29T21:54:17.641569",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.745192,
+                                    "y": 0.397461,
+                                    "w": 0.003129,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "39F9BC9B-123E-5A28-B6D1-11FC406F9CE6",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.037179,
+                                "y": 0.480469,
+                                "w": 0.004411,
+                                "h": 0.017346
+                            },
+                            "confidence_score": 0.5746586918830872,
+                            "detected_at": "2026-05-29T21:54:17.764281",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.037179,
+                                    "y": 0.480469,
+                                    "w": 0.004411,
+                                    "h": 0.017346
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "B1263D07-E84A-544D-AA46-68E7129E7C2E",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/b1263d07-e84a-544d-aa46-68e7129e7c2e_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/B1263D07-E84A-544D-AA46-68E7129E7C2E/thumbnail",
+                    "camera_lat": 16.0764972,
+                    "camera_lon": 108.2071853,
+                    "heading_angle": 228.769,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T21:52:54.760633",
+                    "street_lights": [
+                        {
+                            "light_id": "FCD8A43D-409E-5FE4-899E-DA6A05CBF405",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.487821,
+                                "y": 0.288086,
+                                "w": 0.00409,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.972580075263977,
+                            "detected_at": "2026-05-29T21:54:17.886171",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.487821,
+                                    "y": 0.288086,
+                                    "w": 0.00409,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "3D176108-7BA4-5AA5-96AC-D5B966EBE0A1",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.760256,
+                                "y": 0.402344,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8864150047302246,
+                            "detected_at": "2026-05-29T21:54:18.008913",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.760256,
+                                    "y": 0.402344,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "F287AA05-EF7C-5B95-B94A-6D27C38641A9",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.476282,
+                                "y": 0.27832,
+                                "w": 0.002488,
+                                "h": 0.006603
+                            },
+                            "confidence_score": 0.8156004548072815,
+                            "detected_at": "2026-05-29T21:54:18.132023",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.476282,
+                                    "y": 0.27832,
+                                    "w": 0.002488,
+                                    "h": 0.006603
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "07CC8357-BB8E-508A-B91C-9751B24EB466",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.468269,
+                                "y": 0.289062,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.7191823124885559,
+                            "detected_at": "2026-05-29T21:54:18.256910",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.468269,
+                                    "y": 0.289062,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "457C035C-E0D2-56E9-B5C2-F89AA27C03AD",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/457c035c-e0d2-56e9-b5c2-f89aa27c03ad_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/457C035C-E0D2-56E9-B5C2-F89AA27C03AD/thumbnail",
+                    "camera_lat": 16.0764783,
+                    "camera_lon": 108.207162,
+                    "heading_angle": 229.506,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T21:52:54.760633",
+                    "street_lights": [
+                        {
+                            "light_id": "56D26256-B9E8-57B6-8174-D010D5486256",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.483654,
+                                "y": 0.279297,
+                                "w": 0.00409,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9567743539810181,
+                            "detected_at": "2026-05-29T21:54:18.384287",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.483654,
+                                    "y": 0.279297,
+                                    "w": 0.00409,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "6AA1F164-B6BA-58D0-B7C7-116C61E49E6E",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.775641,
+                                "y": 0.401367,
+                                "w": 0.00377,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9063945412635803,
+                            "detected_at": "2026-05-29T21:54:18.508215",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.775641,
+                                    "y": 0.401367,
+                                    "w": 0.00377,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "8DEB1EA5-1B7E-5516-8432-CA3E2EABE033",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.504167,
+                                "y": 0.411133,
+                                "w": 0.001847,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.8209063410758972,
+                            "detected_at": "2026-05-29T21:54:18.631242",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.504167,
+                                    "y": 0.411133,
+                                    "w": 0.001847,
+                                    "h": 0.002697
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "92CBAA5F-E259-5FE8-B44B-8EAB15F54CB4",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.461859,
+                                "y": 0.280273,
+                                "w": 0.00409,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8068726062774658,
+                            "detected_at": "2026-05-29T21:54:18.759129",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.461859,
+                                    "y": 0.280273,
+                                    "w": 0.00409,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "BE3F4955-39C8-5738-B2E0-747A77E8568F",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.470833,
+                                "y": 0.268555,
+                                "w": 0.002488,
+                                "h": 0.006603
+                            },
+                            "confidence_score": 0.7980529069900513,
+                            "detected_at": "2026-05-29T21:54:18.878790",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.470833,
+                                    "y": 0.268555,
+                                    "w": 0.002488,
+                                    "h": 0.006603
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "AFB950AE-2224-5FE0-9EA0-1858078A1248",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.822436,
+                                "y": 0.413086,
+                                "w": 0.004411,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.7920267581939697,
+                            "detected_at": "2026-05-29T21:54:19.003625",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.822436,
+                                    "y": 0.413086,
+                                    "w": 0.004411,
+                                    "h": 0.002697
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "7E23B0CB-0C55-51F0-99A6-558790D74A7F",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/7e23b0cb-0c55-51f0-99a6-558790d74a7f_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/7E23B0CB-0C55-51F0-99A6-558790D74A7F/thumbnail",
+                    "camera_lat": 16.0764572,
+                    "camera_lon": 108.2071364,
+                    "heading_angle": 228.633,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T21:52:54.760633",
+                    "street_lights": [
+                        {
+                            "light_id": "B7B259F4-BBCE-58AF-92F3-CFCB572E149E",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.482372,
+                                "y": 0.256836,
+                                "w": 0.004731,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.971897542476654,
+                            "detected_at": "2026-05-29T21:54:19.138645",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.482372,
+                                    "y": 0.256836,
+                                    "w": 0.004731,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D1125398-B2E9-5A72-A901-50936800AB0D",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.458333,
+                                "y": 0.257812,
+                                "w": 0.004411,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9640766978263855,
+                            "detected_at": "2026-05-29T21:54:19.262881",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.458333,
+                                    "y": 0.257812,
+                                    "w": 0.004411,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "2A3B5C05-C214-501F-A34F-0D9F1BD47A42",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.467949,
+                                "y": 0.243164,
+                                "w": 0.003129,
+                                "h": 0.00758
+                            },
+                            "confidence_score": 0.956588625907898,
+                            "detected_at": "2026-05-29T21:54:19.387001",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.467949,
+                                    "y": 0.243164,
+                                    "w": 0.003129,
+                                    "h": 0.00758
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "FB31F723-7363-500F-8EA2-D039761D382F",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.857692,
+                                "y": 0.425781,
+                                "w": 0.003449,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.8584856986999512,
+                            "detected_at": "2026-05-29T21:54:19.511406",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.857692,
+                                    "y": 0.425781,
+                                    "w": 0.003449,
+                                    "h": 0.002697
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "FF71993B-8715-5D5B-A615-50D318B7EAF1",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.794231,
+                                "y": 0.413086,
+                                "w": 0.00377,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.7763258814811707,
+                            "detected_at": "2026-05-29T21:54:19.634633",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.794231,
+                                    "y": 0.413086,
+                                    "w": 0.00377,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "10D0A4D5-23B8-5E3D-9FF0-4CE6086B217E",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.809615,
+                                "y": 0.458008,
+                                "w": 0.003129,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.6167421936988831,
+                            "detected_at": "2026-05-29T21:54:19.754195",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.809615,
+                                    "y": 0.458008,
+                                    "w": 0.003129,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence_id": "14544CD9-37C6-5017-9944-E64430A733F1",
+            "image_count": 4,
+            "light_count": 18,
+            "images": [
+                {
+                    "image_id": "019218AF-8D16-5650-9072-D3686F465DEC",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/019218af-8d16-5650-9072-d3686f465dec_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/019218AF-8D16-5650-9072-D3686F465DEC/thumbnail",
+                    "camera_lat": 16.0769137,
+                    "camera_lon": 108.2076579,
+                    "heading_angle": 215.779,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:32:41.961713",
+                    "street_lights": [
+                        {
+                            "light_id": "7270C222-821D-558F-A348-2CD3235C1EED",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.540385,
+                                "y": 0.15918,
+                                "w": 0.006334,
+                                "h": 0.00758
+                            },
+                            "confidence_score": 0.9924191236495972,
+                            "detected_at": "2026-05-30T03:33:34.422460",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.540385,
+                                    "y": 0.15918,
+                                    "w": 0.006334,
+                                    "h": 0.00758
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "E6B46B15-10DA-5380-BEA4-CE74F845BBAA",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.016026,
+                                "y": 0.199219,
+                                "w": 0.005372,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.9866887927055359,
+                            "detected_at": "2026-05-30T03:33:34.548582",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.016026,
+                                    "y": 0.199219,
+                                    "w": 0.005372,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "3E59F270-35B4-54FD-BBE0-C1B7D00DFB87",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.509295,
+                                "y": 0.160156,
+                                "w": 0.008257,
+                                "h": 0.011486
+                            },
+                            "confidence_score": 0.9246702194213867,
+                            "detected_at": "2026-05-30T03:33:34.675204",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.509295,
+                                    "y": 0.160156,
+                                    "w": 0.008257,
+                                    "h": 0.011486
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "A4744AC5-97CD-5DC4-9AEC-019448C0FA3B",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.579487,
+                                "y": 0.320312,
+                                "w": 0.002488,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.8045777678489685,
+                            "detected_at": "2026-05-30T03:33:34.806415",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.579487,
+                                    "y": 0.320312,
+                                    "w": 0.002488,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "1268AE06-EC6E-57A8-9667-839AE7F381FE",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.56859,
+                                "y": 0.321289,
+                                "w": 0.002808,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.6314017176628113,
+                            "detected_at": "2026-05-30T03:33:34.933943",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.56859,
+                                    "y": 0.321289,
+                                    "w": 0.002808,
+                                    "h": 0.002697
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "5431F653-CDB2-567A-8243-B6A0F76D4429",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/5431f653-cdb2-567a-8243-b6a0f76d4429_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/5431F653-CDB2-567A-8243-B6A0F76D4429/thumbnail",
+                    "camera_lat": 16.0768921,
+                    "camera_lon": 108.2076408,
+                    "heading_angle": 220.853,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:32:41.961713",
+                    "street_lights": [
+                        {
+                            "light_id": "C939BD02-3D1B-53A7-B52F-60A2A615248A",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.5,
+                                "y": 0.139648,
+                                "w": 0.007295,
+                                "h": 0.00758
+                            },
+                            "confidence_score": 0.9935154914855957,
+                            "detected_at": "2026-05-30T03:33:35.058627",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.5,
+                                    "y": 0.139648,
+                                    "w": 0.007295,
+                                    "h": 0.00758
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "8D214B12-3B87-5D38-8903-674660E745CC",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.465385,
+                                "y": 0.140625,
+                                "w": 0.006334,
+                                "h": 0.008557
+                            },
+                            "confidence_score": 0.9642252326011658,
+                            "detected_at": "2026-05-30T03:33:35.182431",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.465385,
+                                    "y": 0.140625,
+                                    "w": 0.006334,
+                                    "h": 0.008557
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "49882170-BAAE-5FD0-BD61-D69B176220A4",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.543269,
+                                "y": 0.332031,
+                                "w": 0.003129,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.7261557579040527,
+                            "detected_at": "2026-05-30T03:33:35.306373",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.543269,
+                                    "y": 0.332031,
+                                    "w": 0.003129,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "06726F69-9E25-5D05-9C1C-5288C28475E2",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.532372,
+                                "y": 0.332031,
+                                "w": 0.002488,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.7053881883621216,
+                            "detected_at": "2026-05-30T03:33:35.434178",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.532372,
+                                    "y": 0.332031,
+                                    "w": 0.002488,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "F5EC0103-F5A1-5631-B32B-F95844A0C963",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.972436,
+                                "y": 0.554688,
+                                "w": 0.002488,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.5512669086456299,
+                            "detected_at": "2026-05-30T03:33:35.558388",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.972436,
+                                    "y": 0.554688,
+                                    "w": 0.002488,
+                                    "h": 0.00465
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "CE815ABB-03F2-50C1-B6FF-B8BB41832346",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/ce815abb-03f2-50c1-b6ff-b8bb41832346_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/CE815ABB-03F2-50C1-B6FF-B8BB41832346/thumbnail",
+                    "camera_lat": 16.0768716,
+                    "camera_lon": 108.2076214,
+                    "heading_angle": 223.857,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:32:41.961713",
+                    "street_lights": [
+                        {
+                            "light_id": "645BA71E-ABEA-5514-9A21-17AB7E9A0A24",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.465064,
+                                "y": 0.103516,
+                                "w": 0.007936,
+                                "h": 0.009533
+                            },
+                            "confidence_score": 0.9960923790931702,
+                            "detected_at": "2026-05-30T03:33:35.685862",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.465064,
+                                    "y": 0.103516,
+                                    "w": 0.007936,
+                                    "h": 0.009533
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "C0740D6D-9A44-531A-B61A-773C74AC35B3",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.425,
+                                "y": 0.103516,
+                                "w": 0.007936,
+                                "h": 0.009533
+                            },
+                            "confidence_score": 0.994273841381073,
+                            "detected_at": "2026-05-30T03:33:35.809854",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.425,
+                                    "y": 0.103516,
+                                    "w": 0.007936,
+                                    "h": 0.009533
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "8A4A4693-2FF3-5337-822F-D54DE4DA1354",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.519872,
+                                "y": 0.336914,
+                                "w": 0.002808,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.6135416030883789,
+                            "detected_at": "2026-05-30T03:33:35.934011",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.519872,
+                                    "y": 0.336914,
+                                    "w": 0.002808,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "725253D6-AC35-544B-BAEF-A1284CE92F7E",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.503526,
+                                "y": 0.371094,
+                                "w": 0.001847,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.5921738743782043,
+                            "detected_at": "2026-05-30T03:33:36.058583",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.503526,
+                                    "y": 0.371094,
+                                    "w": 0.001847,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "5964FA5B-223E-5F5A-A436-750C3DFA3876",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/5964fa5b-223e-5f5a-a436-750c3dfa3876_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/5964FA5B-223E-5F5A-A436-750C3DFA3876/thumbnail",
+                    "camera_lat": 16.0768514,
+                    "camera_lon": 108.2076012,
+                    "heading_angle": 223.857,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-30T03:32:41.961713",
+                    "street_lights": [
+                        {
+                            "light_id": "F6B3D891-88A0-5CF4-A22F-51CEBF9BF224",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.440385,
+                                "y": 0.064453,
+                                "w": 0.008898,
+                                "h": 0.012463
+                            },
+                            "confidence_score": 0.9963951706886292,
+                            "detected_at": "2026-05-30T03:33:36.182025",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.440385,
+                                    "y": 0.064453,
+                                    "w": 0.008898,
+                                    "h": 0.012463
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "9CD75E8B-11D4-52E3-AD72-CD57086EE9EB",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.395513,
+                                "y": 0.067383,
+                                "w": 0.008257,
+                                "h": 0.01051
+                            },
+                            "confidence_score": 0.9958513975143433,
+                            "detected_at": "2026-05-30T03:33:36.306292",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.395513,
+                                    "y": 0.067383,
+                                    "w": 0.008257,
+                                    "h": 0.01051
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D7738E8A-2204-5461-94F5-0417A3578DF8",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.509615,
+                                "y": 0.351562,
+                                "w": 0.002808,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8587833642959595,
+                            "detected_at": "2026-05-30T03:33:36.429899",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.509615,
+                                    "y": 0.351562,
+                                    "w": 0.002808,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "835C0B3E-C2DE-5CF3-B1A1-68386A9B8CB2",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.905449,
+                                "y": 0.40918,
+                                "w": 0.007295,
+                                "h": 0.019299
+                            },
+                            "confidence_score": 0.597901463508606,
+                            "detected_at": "2026-05-30T03:33:36.558589",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.905449,
+                                    "y": 0.40918,
+                                    "w": 0.007295,
+                                    "h": 0.019299
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence_id": "F75BD125-009D-5A71-8A95-FC96CB165994",
+            "image_count": 7,
+            "light_count": 36,
+            "images": [
+                {
+                    "image_id": "AFFC4B1D-5BB0-57B3-9DD7-C05DEA5B7C84",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/affc4b1d-5bb0-57b3-9dd7-c05dea5b7c84_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/AFFC4B1D-5BB0-57B3-9DD7-C05DEA5B7C84/thumbnail",
+                    "camera_lat": 16.0765723,
+                    "camera_lon": 108.2072761,
+                    "heading_angle": 228.67,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T22:00:15.788646",
+                    "street_lights": [
+                        {
+                            "light_id": "813ABB63-261B-5BF9-AFA7-3973E6EC506B",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.494872,
+                                "y": 0.339844,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.9464302659034729,
+                            "detected_at": "2026-05-29T22:01:45.336598",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.494872,
+                                    "y": 0.339844,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "85409673-A745-5396-B2A4-05C33738F301",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.480769,
+                                "y": 0.339844,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8400251865386963,
+                            "detected_at": "2026-05-29T22:01:45.477137",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.480769,
+                                    "y": 0.339844,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "0D8F4C8D-4F1A-52B2-9BA5-52DDE2CC5785",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.916346,
+                                "y": 0.495117,
+                                "w": 0.002167,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8121227025985718,
+                            "detected_at": "2026-05-29T22:01:45.641695",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.916346,
+                                    "y": 0.495117,
+                                    "w": 0.002167,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "73764576-0300-51A9-91B7-66FF4351877B",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.487179,
+                                "y": 0.333984,
+                                "w": 0.002167,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.7595766186714172,
+                            "detected_at": "2026-05-29T22:01:45.780599",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.487179,
+                                    "y": 0.333984,
+                                    "w": 0.002167,
+                                    "h": 0.00465
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "778290F6-7E32-5F73-A80F-C28788F83F62",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/778290f6-7e32-5f73-a80f-c28788f83f62_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/778290F6-7E32-5F73-A80F-C28788F83F62/thumbnail",
+                    "camera_lat": 16.0765531,
+                    "camera_lon": 108.2072536,
+                    "heading_angle": 227.229,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T22:00:15.788646",
+                    "street_lights": [
+                        {
+                            "light_id": "B677F6AA-BBF6-5B44-8055-8F0BDD7E51D1",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.492628,
+                                "y": 0.329102,
+                                "w": 0.00409,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.865268886089325,
+                            "detected_at": "2026-05-29T22:01:45.929466",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.492628,
+                                    "y": 0.329102,
+                                    "w": 0.00409,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "14753B29-0C88-53A5-A189-6759144A0F39",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.477885,
+                                "y": 0.329102,
+                                "w": 0.003449,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.8064939379692078,
+                            "detected_at": "2026-05-29T22:01:46.072750",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.477885,
+                                    "y": 0.329102,
+                                    "w": 0.003449,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "DCD37FA5-F6C8-5435-8246-F323A435A874",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.484615,
+                                "y": 0.323242,
+                                "w": 0.002167,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.7850097417831421,
+                            "detected_at": "2026-05-29T22:01:46.215523",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.484615,
+                                    "y": 0.323242,
+                                    "w": 0.002167,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "76C2897A-5823-5198-A701-0A7D98132FA1",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.075321,
+                                "y": 0.474609,
+                                "w": 0.005372,
+                                "h": 0.013439
+                            },
+                            "confidence_score": 0.6926960349082947,
+                            "detected_at": "2026-05-29T22:01:46.378605",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.075321,
+                                    "y": 0.474609,
+                                    "w": 0.005372,
+                                    "h": 0.013439
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "28E36D5F-F969-56DF-A60A-18FB29E198A6",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.921474,
+                                "y": 0.495117,
+                                "w": 0.002488,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.6771004796028137,
+                            "detected_at": "2026-05-29T22:01:46.532404",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.921474,
+                                    "y": 0.495117,
+                                    "w": 0.002488,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "65A01E8A-61A8-541A-8A80-B3E0D12C14F8",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.991987,
+                                "y": 0.416992,
+                                "w": 0.007616,
+                                "h": 0.044689
+                            },
+                            "confidence_score": 0.512752115726471,
+                            "detected_at": "2026-05-29T22:01:46.680500",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.991987,
+                                    "y": 0.416992,
+                                    "w": 0.007616,
+                                    "h": 0.044689
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "979F9757-F7BB-5F58-B008-3296CE408264",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/979f9757-f7bb-5f58-b008-3296ce408264_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/979F9757-F7BB-5F58-B008-3296CE408264/thumbnail",
+                    "camera_lat": 16.0765353,
+                    "camera_lon": 108.207232,
+                    "heading_angle": 230.593,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T22:00:15.788646",
+                    "street_lights": [
+                        {
+                            "light_id": "21F9C494-C6A0-5D0F-923D-23B88A460819",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.491346,
+                                "y": 0.319336,
+                                "w": 0.003449,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.8926972150802612,
+                            "detected_at": "2026-05-29T22:01:46.821028",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.491346,
+                                    "y": 0.319336,
+                                    "w": 0.003449,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "3406D91F-CDA8-59CF-85FD-50E4C00F959C",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.055128,
+                                "y": 0.473633,
+                                "w": 0.005372,
+                                "h": 0.016369
+                            },
+                            "confidence_score": 0.8120214343070984,
+                            "detected_at": "2026-05-29T22:01:46.959239",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.055128,
+                                    "y": 0.473633,
+                                    "w": 0.005372,
+                                    "h": 0.016369
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "418F2C63-5FE7-5C6E-BBC7-CAFF31C195FF",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.482051,
+                                "y": 0.3125,
+                                "w": 0.001847,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.7616991996765137,
+                            "detected_at": "2026-05-29T22:01:47.096730",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.482051,
+                                    "y": 0.3125,
+                                    "w": 0.001847,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "1D00409B-E0C8-5F27-83F4-098EC4BF4EC0",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.583654,
+                                "y": 0.34082,
+                                "w": 0.005693,
+                                "h": 0.008557
+                            },
+                            "confidence_score": 0.7547844052314758,
+                            "detected_at": "2026-05-29T22:01:47.242138",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.583654,
+                                    "y": 0.34082,
+                                    "w": 0.005693,
+                                    "h": 0.008557
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "F353BF77-F141-58AD-AF4E-9EC5DC991262",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.474679,
+                                "y": 0.319336,
+                                "w": 0.003129,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.5644957423210144,
+                            "detected_at": "2026-05-29T22:01:47.437242",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.474679,
+                                    "y": 0.319336,
+                                    "w": 0.003129,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "8D6555FF-225E-5EAC-A20F-BE422FF67D8E",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/8d6555ff-225e-5eac-a20f-be422ff67d8e_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/8D6555FF-225E-5EAC-A20F-BE422FF67D8E/thumbnail",
+                    "camera_lat": 16.0765162,
+                    "camera_lon": 108.207209,
+                    "heading_angle": 227.679,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T22:00:15.788646",
+                    "street_lights": [
+                        {
+                            "light_id": "EBE69D78-9BAB-5F28-8BC7-653630717388",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.488141,
+                                "y": 0.305664,
+                                "w": 0.00409,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9614190459251404,
+                            "detected_at": "2026-05-29T22:01:47.577297",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.488141,
+                                    "y": 0.305664,
+                                    "w": 0.00409,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D06843FF-D0E8-5238-A1EA-8FF48FCD0FEC",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.478205,
+                                "y": 0.297852,
+                                "w": 0.002167,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.912636399269104,
+                            "detected_at": "2026-05-29T22:01:47.717129",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.478205,
+                                    "y": 0.297852,
+                                    "w": 0.002167,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "6C0AEFF6-0FFA-500C-885A-7B7C8F1110D4",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.469872,
+                                "y": 0.305664,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.881593644618988,
+                            "detected_at": "2026-05-29T22:01:47.856773",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.469872,
+                                    "y": 0.305664,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D461A637-A29B-58F5-B19C-0CDB617AEC25",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.745192,
+                                "y": 0.397461,
+                                "w": 0.003129,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.5893957018852234,
+                            "detected_at": "2026-05-29T22:01:48.002070",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.745192,
+                                    "y": 0.397461,
+                                    "w": 0.003129,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "5379790D-52CC-5ADA-91C8-77A5FB569AA2",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.037179,
+                                "y": 0.480469,
+                                "w": 0.004411,
+                                "h": 0.017346
+                            },
+                            "confidence_score": 0.5746586918830872,
+                            "detected_at": "2026-05-29T22:01:48.145400",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.037179,
+                                    "y": 0.480469,
+                                    "w": 0.004411,
+                                    "h": 0.017346
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "573B571A-C2AC-56DB-A829-68BBD1854BF3",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/573b571a-c2ac-56db-a829-68bbd1854bf3_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/573B571A-C2AC-56DB-A829-68BBD1854BF3/thumbnail",
+                    "camera_lat": 16.0764972,
+                    "camera_lon": 108.2071853,
+                    "heading_angle": 228.769,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T22:00:15.788646",
+                    "street_lights": [
+                        {
+                            "light_id": "132175D7-25F0-57AE-8FF1-F713B6376355",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.487821,
+                                "y": 0.288086,
+                                "w": 0.00409,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.972580075263977,
+                            "detected_at": "2026-05-29T22:01:48.344423",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.487821,
+                                    "y": 0.288086,
+                                    "w": 0.00409,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "1E4CE0D6-EAC9-501D-8EB3-E2DD1421A1C3",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.760256,
+                                "y": 0.402344,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8864150047302246,
+                            "detected_at": "2026-05-29T22:01:48.489172",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.760256,
+                                    "y": 0.402344,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "A2F16558-572C-578A-B65E-8EF03F29B895",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.476282,
+                                "y": 0.27832,
+                                "w": 0.002488,
+                                "h": 0.006603
+                            },
+                            "confidence_score": 0.8156004548072815,
+                            "detected_at": "2026-05-29T22:01:48.625842",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.476282,
+                                    "y": 0.27832,
+                                    "w": 0.002488,
+                                    "h": 0.006603
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "A2241F81-AB5B-55AB-A574-A7A06AC429A2",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.468269,
+                                "y": 0.289062,
+                                "w": 0.003449,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.7191823124885559,
+                            "detected_at": "2026-05-29T22:01:48.764375",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.468269,
+                                    "y": 0.289062,
+                                    "w": 0.003449,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "259DD10C-B7AF-5F38-979F-6E20B792CED3",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/259dd10c-b7af-5f38-979f-6e20b792ced3_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/259DD10C-B7AF-5F38-979F-6E20B792CED3/thumbnail",
+                    "camera_lat": 16.0764783,
+                    "camera_lon": 108.207162,
+                    "heading_angle": 229.506,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T22:00:15.788646",
+                    "street_lights": [
+                        {
+                            "light_id": "1FF4BCF5-4AFB-5310-BBD4-F1F12583E060",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.483654,
+                                "y": 0.279297,
+                                "w": 0.00409,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9567743539810181,
+                            "detected_at": "2026-05-29T22:01:48.907155",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.483654,
+                                    "y": 0.279297,
+                                    "w": 0.00409,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "8FBC68C7-3DDA-5A03-923C-F1C9D33C762D",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.775641,
+                                "y": 0.401367,
+                                "w": 0.00377,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9063945412635803,
+                            "detected_at": "2026-05-29T22:01:49.115677",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.775641,
+                                    "y": 0.401367,
+                                    "w": 0.00377,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "A208633B-6B8D-5EE9-AD19-13E9A29C6190",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.504167,
+                                "y": 0.411133,
+                                "w": 0.001847,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.8209063410758972,
+                            "detected_at": "2026-05-29T22:01:49.251417",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.504167,
+                                    "y": 0.411133,
+                                    "w": 0.001847,
+                                    "h": 0.002697
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "13C201A9-E588-5E58-A63A-53B691105E67",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.461859,
+                                "y": 0.280273,
+                                "w": 0.00409,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.8068726062774658,
+                            "detected_at": "2026-05-29T22:01:49.392367",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.461859,
+                                    "y": 0.280273,
+                                    "w": 0.00409,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "1C6064CC-AC67-5A6A-B4F0-5B99B558A6C8",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.470833,
+                                "y": 0.268555,
+                                "w": 0.002488,
+                                "h": 0.006603
+                            },
+                            "confidence_score": 0.7980529069900513,
+                            "detected_at": "2026-05-29T22:01:49.535971",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.470833,
+                                    "y": 0.268555,
+                                    "w": 0.002488,
+                                    "h": 0.006603
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "F9F76D54-E69C-51E4-A282-013CFE43EB46",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.822436,
+                                "y": 0.413086,
+                                "w": 0.004411,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.7920267581939697,
+                            "detected_at": "2026-05-29T22:01:49.677874",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.822436,
+                                    "y": 0.413086,
+                                    "w": 0.004411,
+                                    "h": 0.002697
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image_id": "2D10AE48-4AEA-564C-9D65-DA259E262928",
+                    "blob_url": "abfss://landing-zone@bigdata20260529.dfs.core.windows.net/thumbnails/2d10ae48-4aea-564c-9d65-da259e262928_thumb1024.jpg",
+                    "thumbnail_url": "/api/images/2D10AE48-4AEA-564C-9D65-DA259E262928/thumbnail",
+                    "camera_lat": 16.0764572,
+                    "camera_lon": 108.2071364,
+                    "heading_angle": 228.633,
+                    "upload_type": "MAPILLARY",
+                    "uploaded_at": "2026-05-29T22:00:15.788646",
+                    "street_lights": [
+                        {
+                            "light_id": "37C5A4BA-CEEF-591E-A9DA-2492E96F842C",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.482372,
+                                "y": 0.256836,
+                                "w": 0.004731,
+                                "h": 0.005627
+                            },
+                            "confidence_score": 0.971897542476654,
+                            "detected_at": "2026-05-29T22:01:49.816252",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.482372,
+                                    "y": 0.256836,
+                                    "w": 0.004731,
+                                    "h": 0.005627
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "7DBC00B0-4DCC-5B0A-99FB-C3DFCACB5192",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.458333,
+                                "y": 0.257812,
+                                "w": 0.004411,
+                                "h": 0.00465
+                            },
+                            "confidence_score": 0.9640766978263855,
+                            "detected_at": "2026-05-29T22:01:49.955475",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.458333,
+                                    "y": 0.257812,
+                                    "w": 0.004411,
+                                    "h": 0.00465
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "C46B6C0B-9D86-5F4A-8517-9040AC5CF87F",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.467949,
+                                "y": 0.243164,
+                                "w": 0.003129,
+                                "h": 0.00758
+                            },
+                            "confidence_score": 0.956588625907898,
+                            "detected_at": "2026-05-29T22:01:50.095168",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.467949,
+                                    "y": 0.243164,
+                                    "w": 0.003129,
+                                    "h": 0.00758
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D0F64854-D659-51F2-BA71-4DC704462CBC",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.857692,
+                                "y": 0.425781,
+                                "w": 0.003449,
+                                "h": 0.002697
+                            },
+                            "confidence_score": 0.8584856986999512,
+                            "detected_at": "2026-05-29T22:01:50.233384",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.857692,
+                                    "y": 0.425781,
+                                    "w": 0.003449,
+                                    "h": 0.002697
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "2F26E52D-C9EE-50DA-9D25-8C5B7FF4F169",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.794231,
+                                "y": 0.413086,
+                                "w": 0.00377,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.7763258814811707,
+                            "detected_at": "2026-05-29T22:01:50.372650",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.794231,
+                                    "y": 0.413086,
+                                    "w": 0.00377,
+                                    "h": 0.003674
+                                }
+                            }
+                        },
+                        {
+                            "light_id": "D096D41B-E3E9-5D4C-9B84-1ACE8FA359D9",
+                            "real_lat": null,
+                            "real_lon": null,
+                            "bounding_box": {
+                                "x": 0.809615,
+                                "y": 0.458008,
+                                "w": 0.003129,
+                                "h": 0.003674
+                            },
+                            "confidence_score": 0.6167421936988831,
+                            "detected_at": "2026-05-29T22:01:50.513025",
+                            "segmentation": {
+                                "bbox_normalized": {
+                                    "x": 0.809615,
+                                    "y": 0.458008,
+                                    "w": 0.003129,
+                                    "h": 0.003674
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
